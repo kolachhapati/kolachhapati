@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sakar Kolachhapati
 - 👀 I’m interested in c# and angular
-- 🌱 I’m currently learning.
+- 🌱 I like learning and implementing new technologies.
 - 💞️ I’m looking to collaborate on open source project and improve my skills
 - 📫  reach me @ kolachhapati@gmail.com
 
