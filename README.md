@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Sakar Kolachhapati
-- 👀 I’m interested in c# and angular
+A personal Repository 
 
 
-- 📫  reach me @ kolachhapati@gmail.com
+- 📫  please reach me @ kolachhapati@gmail.com
 
 <!---
 kolachhapati/kolachhapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
